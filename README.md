@@ -224,5 +224,3 @@ This project is proprietary and confidential. Unauthorized copying or distributi
 - Cloudflare for reliable hosting
 
 ---
-
-**Built with ❤️ for India's Manufacturing Revolution**
