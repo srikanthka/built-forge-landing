@@ -7,7 +7,7 @@ const colors = {
   },
   
   bg: {
-    darkest: '#0A0E27',
+    darkest: '#00274C',
     dark: '#1A1F3A',
     medium: '#2C3454',
     light: '#3D4568',
@@ -27,7 +27,7 @@ const colors = {
   },
 
   background: {
-    dark: '#0A0E27',
+    dark: '#00274C',
     medium: '#1A1F3A',
     light: '#2C3454',
   },

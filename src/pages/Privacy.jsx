@@ -163,7 +163,7 @@ const PrivacyPolicyPage = () => {
             <ListItem>Opt-out of marketing communications</ListItem>
           </List>
           <Paragraph>
-            To exercise these rights, please contact us at info@builtforgeindia.com
+            To exercise these rights, please contact us at info@builtforge.in
           </Paragraph>
         </Section>
 
@@ -209,8 +209,8 @@ const PrivacyPolicyPage = () => {
             If you have any questions about this Privacy Policy, please contact us:
           </Paragraph>
           <List>
-            <ListItem>Email: info@builtforgeindia.com</ListItem>
-            <ListItem>Phone: +91 991 614 6577</ListItem>
+            <ListItem>Email: info@builtforge.in</ListItem>
+            <ListItem>Phone: +91 901 907 5430</ListItem>
             <ListItem>Address: P-6, Peenya Industrial Area, Bengaluru</ListItem>
           </List>
         </Section>

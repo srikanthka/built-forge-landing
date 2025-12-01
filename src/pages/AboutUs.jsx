@@ -309,7 +309,7 @@ const AboutUsPage = () => {
         >
           Our Impact
         </SectionTitle>
-        <StatsGrid>
+        {/*<StatsGrid>
           {stats.map((stat, index) => (
             <StatCard
               key={index}
@@ -322,7 +322,7 @@ const AboutUsPage = () => {
               <StatLabel>{stat.label}</StatLabel>
             </StatCard>
           ))}
-        </StatsGrid>
+        </StatsGrid>*/}
       </Section>
 
       <Section>

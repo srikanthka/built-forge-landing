@@ -193,7 +193,7 @@ const HeroSection = () => {
           </Button>
         </CTAButtons>
         
-        <Stats
+        {/*<Stats
           id="stats"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
@@ -222,7 +222,7 @@ const HeroSection = () => {
             <StatNumber>200+</StatNumber>
             <StatLabel>MSME Partners</StatLabel>
           </StatCard>
-        </Stats>
+        </Stats>*/}
       </HeroContent>
       
       <ScrollIndicator

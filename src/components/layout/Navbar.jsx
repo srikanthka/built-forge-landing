@@ -180,9 +180,9 @@ const Navbar = () => {
             <NavLink onClick={() => scrollToSection('how-it-works')}>
               How It Works
             </NavLink>
-            <NavLink onClick={() => scrollToSection('stats')}>
+            {/*<NavLink onClick={() => scrollToSection('stats')}>
               Our Impact
-            </NavLink>
+            </NavLink>*/}
             <NavLink onClick={() => scrollToSection('footer')}>
               Contact
             </NavLink>
@@ -239,9 +239,10 @@ const Navbar = () => {
             <NavLink onClick={() => scrollToSection('how-it-works')}>
               How It Works
             </NavLink>
+			{/*
             <NavLink onClick={() => scrollToSection('stats')}>
               Our Impact
-            </NavLink>
+            </NavLink>*/}
             <NavLink onClick={() => scrollToSection('footer')}>
               Contact
             </NavLink>

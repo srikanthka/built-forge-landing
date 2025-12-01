@@ -159,11 +159,11 @@ const Footer = () => {
           </ContactInfo>
           <ContactInfo>
             <FiMail />
-            <span>info@builtforgeindia.com</span>
+            <span>info@builtforge.in</span>
           </ContactInfo>
           <ContactInfo>
             <FiPhone />
-            <span>+91 991 614 6577</span>
+            <span>+91 901 907 5430</span>
           </ContactInfo>
         </FooterSection>
       </FooterContent>

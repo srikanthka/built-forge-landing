@@ -217,7 +217,7 @@ const ContactPage = () => {
     e.preventDefault();
     
     // Create mailto link with form data
-    const mailtoLink = `mailto:info@builtforgeindia.com?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(
+    const mailtoLink = `mailto:info@builtforge.in?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(
       `Name: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\n\nMessage:\n${formData.message}`
     )}`;
     
@@ -370,7 +370,7 @@ const ContactPage = () => {
             </InfoIcon>
             <InfoContent>
               <InfoLabel>Email</InfoLabel>
-              <InfoValue>info@builtforgeindia.com</InfoValue>
+              <InfoValue>info@builtforge.in</InfoValue>
             </InfoContent>
           </InfoItem>
 
@@ -380,7 +380,7 @@ const ContactPage = () => {
             </InfoIcon>
             <InfoContent>
               <InfoLabel>Phone</InfoLabel>
-              <InfoValue>+91 991 614 6577</InfoValue>
+              <InfoValue>+91 901 907 5430</InfoValue>
             </InfoContent>
           </InfoItem>
 

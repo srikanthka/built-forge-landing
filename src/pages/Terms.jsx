@@ -267,8 +267,8 @@ const TermsPage = () => {
             If you have any questions about these Terms, please contact us:
           </Paragraph>
           <List>
-            <ListItem>Email: info@builtforgeindia.com</ListItem>
-            <ListItem>Phone: +91 991 614 6577</ListItem>
+            <ListItem>Email: info@builtforge.in</ListItem>
+            <ListItem>Phone: +91 901 907 5430</ListItem>
             <ListItem>Address: P-6, Peenya Industrial Area, Bengaluru</ListItem>
           </List>
         </Section>
