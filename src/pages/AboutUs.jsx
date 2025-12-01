@@ -107,7 +107,7 @@ const StoryText = styled.p`
     margin-bottom: 0;
   }
 `;
-
+/*
 const StatsGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -132,7 +132,7 @@ const StatLabel = styled.div`
   color: #B8C4D9;
   font-size: 1rem;
 `;
-
+*/
 const TeamGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -219,14 +219,14 @@ const AboutUsPage = () => {
       description: 'Promoting sustainable manufacturing practices that benefit both business and environment.'
     }
   ];
-
+/*
   const stats = [
     { number: '5000+', label: 'Students Trained' },
     { number: '200+', label: 'MSME Partners' },
     { number: '50+', label: 'Centers of Excellence' },
     { number: '85%', label: 'Placement Rate' }
   ];
-
+*/
   return (
     <PageContainer>
       <Hero ref={heroRef}>

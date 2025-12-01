@@ -57,7 +57,7 @@ const CTAButtons = styled(motion.div)`
   justify-content: center;
   flex-wrap: wrap;
 `;
-
+/*
 const Stats = styled(motion.div)`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -94,7 +94,7 @@ const StatLabel = styled.div`
   font-size: 1rem;
   color: #B8C4D9;
 `;
-
+*/
 const ScrollIndicator = styled(motion.div)`
   position: absolute;
   bottom: 2rem;
